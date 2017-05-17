@@ -1,0 +1,12 @@
+{
+  "previsao":[
+    "mika previsão do tempo"
+  ],
+  "previsaoParaDia":[
+    "mika previsão do tempo para {data}"
+  ],
+  "previsaoPorCidade":[
+    "mika previsão do tempo para a cidade de {cidade}",
+    "mika previsão do tempo em {cidade}"
+  ]
+}
