@@ -1,0 +1,19 @@
+{
+  "aguarde":[
+    "Pesquisando.",
+    "Por favor aguarde.",
+    "Estou verificando."
+  ],
+  "previsao":[
+    "Essa {turno} está {descricao} e uma temperatura de {temperatura} graus"
+  ],
+  "previsaoPara":[
+    "{dia} vai ser {descricao} com mínima de {minima} e máxima de {maxima} graus"
+  ],
+  "previsaoPorCidade":[
+    "Essa {turno} está com {descricao} e uma temperatura de {temperatura} graus na cidade de {cidade}"
+  ],
+  "erro_geolocation":[
+    "Não consegui encontrar a sua possição para ver a previsão do tempo"
+  ]
+}

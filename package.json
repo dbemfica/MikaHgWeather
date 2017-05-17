@@ -1,0 +1,21 @@
+{
+  "name": "mika-hgweather",
+  "version": "0.0.1",
+  "description": "Comando para previsão do tempo para a mika assistant",
+  "main": "MikaHgWeather.js",
+  "author": "dbemfica",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dbemfica/MikaHgWeather.git"
+  },
+  "keywords": [
+    "assistant",
+    "virtual assistant",
+    "Voice commands",
+    "weather forecast"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "curl": "^0.1.4"
+  }
+}
